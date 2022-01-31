@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.postimg.cc/HLPKvNp5/darkmatter.png">
+</div>
+
+## Welcome to Dark Matter 👋
 
 <!--
 
